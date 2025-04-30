@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋<br><br>⭐I'm Akhtar </br><br>💡Currently i'm pursuing my CS Degree in Binus University </br><br>🔑Passionate in Fullstack Machine Learning Development </br><br>🧠Also work on Fullstack Developer </br>
+## Hi there 👋<br><br>⭐I'm Akhtar </br><br>💡Currently i'm pursuing my CS Degree in Binus University </br><br>🔑Passionate in Machine Learning Development </br><br>🧠Also work as Fullstack Developer </br>
 
 
 ## 🌐 Socials:
