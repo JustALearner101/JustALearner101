@@ -33,7 +33,7 @@ class Akhtar:
     role        = ["Full-stack Developer", "ML Engineer"]
     university  = "Binus University – Computer Science (Software Engineering)"
     focus       = ["Deep Learning", "Enterprise Web Systems", "AI Pipelines"]
-    currently   = "Coding Camp 2025 – Machine Learning Cohort"
+    currently   = "Full-stack Developer Intern"
     fun_fact    = "I build things for humans that can't be heard 🤟"
 ```
 
